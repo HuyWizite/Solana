@@ -1,6 +1,6 @@
 {
-    "name": "Native Token",
+    "name": "Native",
     "symbol": "NATIVE",
-    "description": "Native token",
-    "image": ""
+    "description": "Native Token here.",
+    "image": "https://raw.githubusercontent.com/HuyWizite/Solana/main/favicon.jpg"
 }
